@@ -3,6 +3,6 @@ public class Main {
         // 여기에 코드를 작성해주세요.
         int a=5,b=23, c=30;
 
-        System.out.printf("%d + %d = %d", a, b.c);
+        System.out.printf("%d + %d = %d", a, b,c);
     }
 }
